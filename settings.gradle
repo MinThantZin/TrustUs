@@ -1,0 +1,2 @@
+rootProject.name = "TrustUs"
+include ':app'
